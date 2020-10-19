@@ -1,0 +1,26 @@
+{
+  "name": "bruh-enconomy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bruhEconomy.js",
+  "scripts": {
+    "live": "nodemon src/bruhEconomy.js",
+    "start": "node src/bruhEconomy.js --production",
+    "dev": "node src/bruhEconomy.js --development"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Lz04#4062",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0",
+    "ip": "^1.1.5",
+    "numeral": "^2.0.6",
+    "sequelize": "^6.3.4",
+    "slot-machine": "^2.1.0",
+    "sqlite3": "^5.0.0"
+  }
+}

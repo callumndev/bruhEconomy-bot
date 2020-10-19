@@ -1,0 +1,19 @@
+• src
+	• src/storage
+	• src/modules
+	• src/helpers
+
+• lib
+
+• resources
+	• config
+	• images
+	• scripts
+
+• cache
+
+• logs
+
+• database
+	• database/models
+	• database/functions

@@ -1,0 +1,20 @@
+Charity System:
+    - Not per-guild
+[X] When a user spends money on an item part of the money goes to a charity
+[X] Users get to pick when charity there money goes to when they spend
+[X] Users can donate to a charity
+[X] See the charitys donations/balance
+
+Work System:
+[ ] The more users work, the more they get promoted
+[ ] bruh job level - command to see your level
+[ ] Can see level (on work command embed)
+[ ] The higher level a user is the more amount of promotion points it takes to level up
+[ ] Every time a user does the work command they get 2 promotion points
+[ ] Max level of 50
+Example: To get to level 1 u need 20 points and to get to level 2 u need 50 points
+
+[ ] Users can buy a booster in the shop called "X2 promotion time" in the daily shop that lasts 24 hours (gets users X2 the amount of money earned)
+[ ] Daily shop
+[ ] Permanent shop
+[ ] A user stats command for the economy system (how many coins spent, how many coins they ever had, how many promotion points they have)

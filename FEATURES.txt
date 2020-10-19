@@ -1,0 +1,31 @@
+Initial features: ```
+[ ] bruh shop
+[ ] bruh buy <item>
+[X] bruh rob
+[ ] bruh steal <@player>
+[X] bruh work
+[X] bruh beg
+[X] bruh bal
+[X] bruh daily
+[X] bruh hourly
+[X] bruh fish
+[X] bruh hunt
+[X] bruh inventory
+[ ] bruh postmeme
+[ ] bruh claim <store> earnings
+[X] bruh hike
+[X] bruh slots
+[X] bruh pay
+```
+
+Extra Added Features (with budget): ```
+[X] bruh donate - £3
+[X] bruh charity - £2
+[X] bruh balance - £2
+[X] bruh deposit - £2
+[X] bruh withdraw - £2
+[X] bruh help - £2
+[X] bruh meme - £2
+[-] Levelling system [for bot (when users do commands)] - £5
+[ ] Levelling system [for jobs (when users do the "work" command)] - £5
+```
